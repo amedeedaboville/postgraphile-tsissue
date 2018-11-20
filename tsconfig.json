@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "lib": [ "esnext" ],
+        "paths": {
+          "*": [
+            "node_modules/*"
+          ]
+        }
+    }
+}
